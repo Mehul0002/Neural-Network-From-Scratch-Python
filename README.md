@@ -12,7 +12,7 @@ Make sure Python 3.8+ is installed: https://www.python.org/downloads/
 
 ### Step 2: Install Dependencies
 Open a terminal in this folder and run:
-```bash
+```bash 
 pip install PyQt5 matplotlib numpy scikit-learn
 ```
 
